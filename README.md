@@ -1,4 +1,4 @@
-<img align = "right" alt = "banner" width = "400" src = "https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface_277904-4191.jpg?w=2000">
+<img align = "right" alt = "banner" width = "100%" height = "300" src = "https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface_277904-4191.jpg?w=2000">
 
 <h1 align="center">Hi 👋, I'm Afzal Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
