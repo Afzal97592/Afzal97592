@@ -1,3 +1,5 @@
+<img align = "right" alt = "banner" width = "400" src = "[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface_277904-4191.jpg?w=2000)">
+
 <h1 align="center">Hi 👋, I'm Afzal Ahmad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
