@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React.js, Node.js**
 
-- 💬 Ask me about **html, css, javascript, react.js**
+- 💬 Ask me about **html, css, javascript, react.js, React Native, Redux, Java, Node.js**
 
 - 📫 How to reach me **mail2afzalahmad@gmail.com**
 
