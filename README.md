@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **ShareVibe**
 
-- 🌱 I’m currently Working With  **JavaScript, React.js, React Native Node.js, Express.js Mongodb**
+- 🌱 I’m currently Working With  **JavaScript, React.js, React Native Node.js, Express.js Mongodb** Tech Stack
 
 - 💬 Ask me about **html, css, javascript, react.js, React Native, Redux, Java, Node.js, Express, mongoDb, Axios**
 
