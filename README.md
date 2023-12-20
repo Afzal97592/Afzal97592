@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **ShareVibe**
 
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js**
+- 🌱 I’m currently Working With  **JavaScript, React.js, React Native Node.js, Express.js Mongodb**
 
 - 💬 Ask me about **html, css, javascript, react.js, React Native, Redux, Java, Node.js, Express, mongoDb, Axios**
 
